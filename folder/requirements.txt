@@ -1,7 +1,0 @@
-django
-djangorestframework
-django-cors-headers
-drf-yasg  # For Swagger documentation
-django-environ # To handle .env files for configuration
-mysqlclient # Django database connector for MySQL
-celery
